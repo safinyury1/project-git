@@ -5,3 +5,8 @@ body {
 h1{
     color: #00996b;
 }
+
+P {
+    font-size: italic;
+    color: darkcyan;
+}
